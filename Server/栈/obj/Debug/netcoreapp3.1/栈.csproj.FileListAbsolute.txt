@@ -1,0 +1,13 @@
+C:\Users\Alice\source\repos\栈\栈\bin\Debug\netcoreapp3.1\栈.exe
+C:\Users\Alice\source\repos\栈\栈\bin\Debug\netcoreapp3.1\栈.deps.json
+C:\Users\Alice\source\repos\栈\栈\bin\Debug\netcoreapp3.1\栈.runtimeconfig.json
+C:\Users\Alice\source\repos\栈\栈\bin\Debug\netcoreapp3.1\栈.runtimeconfig.dev.json
+C:\Users\Alice\source\repos\栈\栈\bin\Debug\netcoreapp3.1\栈.dll
+C:\Users\Alice\source\repos\栈\栈\bin\Debug\netcoreapp3.1\栈.pdb
+C:\Users\Alice\source\repos\栈\栈\obj\Debug\netcoreapp3.1\栈.csprojAssemblyReference.cache
+C:\Users\Alice\source\repos\栈\栈\obj\Debug\netcoreapp3.1\栈.AssemblyInfoInputs.cache
+C:\Users\Alice\source\repos\栈\栈\obj\Debug\netcoreapp3.1\栈.AssemblyInfo.cs
+C:\Users\Alice\source\repos\栈\栈\obj\Debug\netcoreapp3.1\栈.csproj.CoreCompileInputs.cache
+C:\Users\Alice\source\repos\栈\栈\obj\Debug\netcoreapp3.1\栈.dll
+C:\Users\Alice\source\repos\栈\栈\obj\Debug\netcoreapp3.1\栈.pdb
+C:\Users\Alice\source\repos\栈\栈\obj\Debug\netcoreapp3.1\栈.genruntimeconfig.cache
